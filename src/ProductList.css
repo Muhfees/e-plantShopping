@@ -363,3 +363,7 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+  .disabled-button {
+  background-color: gray;
+  cursor: not-allowed;
+}
